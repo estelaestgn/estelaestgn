@@ -1,5 +1,5 @@
 - Hi, I’m Estela!
-- I’m a Computer Engineer student focused on developing new projects and technologies envolving software development and automation with hardware resources and IoT
+- I’m a Computer Engineering student focused on developing new projects and technologies envolving software development and automation with hardware resources and IoT
 - I have experience in programming in Python and C# and eletronic skills
 - https://www.linkedin.com/in/estela-guerino-estigoni-b6b329214
 
